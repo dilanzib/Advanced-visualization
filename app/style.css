@@ -1,0 +1,93 @@
+    body {
+        margin-left: 10px;
+        margin-top: 10px;
+        font-family: Arial, Helvetica, sans-serif
+    }
+<<<<<<< HEAD
+    
+=======
+
+    #chart{
+        overflow: hidden;
+    }
+
+    /*TOOLTIP*/
+>>>>>>> dev
+    #tooltip {
+        position: absolute;
+        padding: 10px;
+        width: 170px;
+        height: 50px;
+        pointer-events: none;
+        background-color: rgb(39, 42, 43);
+        opacity: 0.2;
+        padding-left: 5px;
+        border-radius: 2px;
+        color: white;
+    }
+    /*MAP*/
+<<<<<<< HEAD
+    
+=======
+>>>>>>> dev
+    .countries {
+        fill: none;
+        stroke: #fff;
+        stroke-linejoin: round;
+    }
+    
+<<<<<<< HEAD
+    .legendThreshold {
+        font-size: 16px;
+        font-family: sans-serif;
+    }
+    
+    .legendTitle {
+        font-weight: bold;
+        font-size: 30px;
+        fill: grey;
+    }
+    
+    .chart-title {
+        font-weight: bold;
+        text-anchor: middle;
+    }
+    
+    .caption {
+        fill: #000;
+        text-anchor: start;
+        font-weight: bold;
+    }
+    /*FLEXBOX*/
+    
+=======
+    /*FLEXBOX*/
+>>>>>>> dev
+    .flex-container {
+        display: flex;
+    }
+    
+    .flex-child {
+        flex: 1;
+        border: 4px;
+    }
+    
+    .flex-child:first-child {
+        margin-right: 20px;
+    }
+<<<<<<< HEAD
+    /*LIST*/
+    
+=======
+
+    /*LIST*/
+>>>>>>> dev
+    .thead-blue {
+        font-size: large;
+        background-color: lightblue;
+    }
+    
+    .tbody-blue {
+        font-size: large;
+        background-color: #f2f2f2;
+    }
